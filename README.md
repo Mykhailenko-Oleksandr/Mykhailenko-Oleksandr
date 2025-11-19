@@ -1,20 +1,46 @@
-## Hi there 👋
+#### 🌟 Hey there! I'm Oleksandr Mykhailenko 👋
 
-<!--
-**Mykhailenko-Oleksandr/Mykhailenko-Oleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Junior Fullstack Developer
 
-Here are some ideas to get you started:
+Crafting meaningful digital experiences with JavaScript, TypeScript, React, Next.js, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
 
+I’m a passionate full-stack developer who loves bringing ideas to life — from clean UI components to fully functional server logic.
+I enjoy building smooth, responsive, and scalable web applications that feel good to use.
+
+<strong> I thrive in: </strong> 
+
+⚡ Agile/Scrum environments
+
+📡 REST API integration
+
+🎨 UI/UX-focused development
+
+🧠 Problem-solving & writing clean code
+
+Always curious. Always learning. Always shipping. ✨
+
+### 🧰 Tech Stack
+
+HTML5 • CSS3 • JavaScript • TypeScript • Node.js • React • Next.js
+
+### 💻 Featured Projects
+🎬 Note Hub
+
+💼 NoteHub — individual project: a web application for creating and managing personal notes.
+Developed with a strong focus on performance, security, and user experience.
+Features: 
+- User authentication (sign up & login)
+- Create, edit, and delete notes
+- Content search
+- Cloud data storage
+
+🍨 Mebleria
+
+Responsive web application simulating an online furniture store with product browsing, interactive filters, reviews, and FAQ sections. Optimized for desktop and mobile devices.
+
+### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-mykhailenko-50143b370/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saniamykhailenko@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/sania_mykhailenko)
