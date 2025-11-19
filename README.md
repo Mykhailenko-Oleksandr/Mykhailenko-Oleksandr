@@ -46,8 +46,8 @@ Responsive web application simulating an online furniture store with product bro
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/sania_mykhailenko)
 
 ### 🗣️ Languages
-![English](https://img.shields.io/badge/English-Elementary-1E90FF?style=flat&logo=google-translate&logoColor=white)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-005BBB?style=flat&logo=google-translate&logoColor=white)
-![Russian](https://img.shields.io/badge/Russian-Fluent-FF0000?style=flat&logo=google-translate&logoColor=white)
-![Slovak](https://img.shields.io/badge/Slovak-Pre--Intermediate-0FA36B?style=flat&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-Elementary-E76A04?style=flat&logo=google-translate&logoColor=white)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-E76A04?style=flat&logo=google-translate&logoColor=white)
+![Russian](https://img.shields.io/badge/Russian-Fluent-E76A04?style=flat&logo=google-translate&logoColor=white)
+![Slovak](https://img.shields.io/badge/Slovak-Pre--Intermediate-E76A04?style=flat&logo=google-translate&logoColor=white)
 
