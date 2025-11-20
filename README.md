@@ -51,6 +51,8 @@ Responsive web application simulating an online furniture store with product bro
 ![Russian](https://img.shields.io/badge/Russian-Fluent-E76A04?style=flat&logo=google-translate&logoColor=white)
 ![Slovak](https://img.shields.io/badge/Slovak-Pre--Intermediate-E76A04?style=flat&logo=google-translate&logoColor=white)
 
+
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
@@ -62,4 +64,6 @@ Responsive web application simulating an online furniture store with product bro
   <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
+ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" width="40"/>
+
 </p>
