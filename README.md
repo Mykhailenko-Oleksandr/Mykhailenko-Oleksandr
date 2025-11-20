@@ -67,19 +67,5 @@ Responsive web application simulating an online furniture store with product bro
  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" width="40" title="Bash"/>
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" width="40" title="VSCode" />
 </p>
----
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nodedotjs.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vite.svg" width="40" title="Vite" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" width="40" title="Figma" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnubash.svg" width="40" title="Bash" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" width="40" title="VSCode" />
-</p>
+
 
