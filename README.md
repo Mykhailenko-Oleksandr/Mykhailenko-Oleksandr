@@ -65,8 +65,5 @@ Responsive web application simulating an online furniture store with product bro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" width="40"/>
- <svg width="40" viewBox="0 0 24 24" fill="#007ACC" xmlns="http://www.w3.org/2000/svg">
-  <path d="M1.5 0L22.5 12 1.5 24V0Z" />
-</svg>
-
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" width="40" />
 </p>
