@@ -27,7 +27,7 @@ HTML5 • CSS3 • JavaScript • TypeScript • Node.js • React • Next.js
 
 ### 💻 Featured Projects
 
- [📝 Note Hub](https://09-auth-two-theta.vercel.app/)
+ <strong>[📝 Note Hub](https://09-auth-two-theta.vercel.app/)</strong>
 
 A web application for creating and managing personal notes.
 Developed with a strong focus on performance, security, and user experience.
@@ -37,7 +37,7 @@ Features:
 - Content search
 - Cloud data storage
 
- [🛋️ Mebleria](https://mykhailenko-oleksandr.github.io/code-ua-furniture/)
+ <strong>[🛋️ Mebleria](https://mykhailenko-oleksandr.github.io/code-ua-furniture/)</strong>
 
 Responsive web application simulating an online furniture store with product browsing, interactive filters, reviews, and FAQ sections. Optimized for desktop and mobile devices.
 ### 🔗 Links
